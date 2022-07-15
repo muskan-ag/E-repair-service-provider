@@ -1,0 +1,16 @@
+/*Change Brand Name Font */
+
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2em;
+    font-weight: bold; 
+}
+
+/* Change Navigation color */
+.navbar #myMenu .custom-nav .nav-item a {
+    color: #fff;
+}
+
+.navbar #myMenu .custom-nav .nav-item a:hover {
+color: #f@aab1;
+}
